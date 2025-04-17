@@ -1,4 +1,4 @@
-# React Native with Tailwind CSS
+# React Native with Tailwind CSS (Default)
 
 A React Native mobile application built with Expo and styled using Tailwind CSS (NativeWind).
 
@@ -6,7 +6,6 @@ A React Native mobile application built with Expo and styled using Tailwind CSS 
 - React Native
 - Expo
 - Tailwind CSS (NativeWind)
-- React Navigation (coming soon)
 
 ## Setup Instructions
 1. Clone the repository
